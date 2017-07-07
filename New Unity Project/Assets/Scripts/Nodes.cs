@@ -5,7 +5,7 @@ using UnityEngine;
 public class Nodes : MonoBehaviour {
 
     public int node;
-    public float[] distance=new float [5];
+    public float[] distance=new float [16];
 
 	// Use this for initialization
 	void Start () {
